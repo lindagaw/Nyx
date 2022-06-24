@@ -16,7 +16,7 @@ src_classifier_restore = "snapshots/ADDA-source-classifier-final.pt"
 src_model_trained = True
 
 # params for target dataset
-tgt_dataset = "USPS"
+tgt_dataset = "MNIST"
 tgt_encoder_restore = "snapshots/ADDA-target-encoder-final.pt"
 tgt_model_trained = True
 
